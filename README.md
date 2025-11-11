@@ -1,16 +1,24 @@
 <h3 align="center">Welcome to my profile!</h3>
 
+<p align="center">
+  I am a 2nd-year engineering student at ECPM Strasbourg (Master's program equivalent).
+  <br>
+  I am focusing my studies on the intersection of <strong>Applied Sciences</strong> (Physics, Chemistry, Materials) and <strong>Artificial Intelligence</strong>. My goal is to apply computational methods like Machine Learning and Data Processing to solve complex scientific problems.
+  <br><br>
+  This page presents the projects I have contributed to.
+</p>
+
 ---
 
 ## Project: VenturiX
 
-This profile highlights a student project I contributed to at ECPM Strasbourg. This project, **VenturiX**, is a 2D fluid flow simulator built in Python.
+This profile highlights a student project I contributed to at ECPM Strasbourg. **VenturiX**, is a 2D fluid flow simulator built in Python.
 
 <p align="center">
   <i><small>(Click the poster for the full PDF)</small></i>
   <br>
   <a href="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/Affiche%20VenturiX.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/poster-thumb.jpg" alt="VenturiX Project Poster" width="500"/>
+    <img src="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/poster-thumb.jpg" alt="VenturiX Project Poster" width="500" style="border-radius: 10px; border: 1px solid #ddd;"/>
   </a>
 </p>
 
