@@ -9,8 +9,8 @@ This profile highlights a student project I contributed to at ECPM Strasbourg. T
 <p align="center">
   <i><small>(Click the poster for the full PDF)</small></i>
   <br>
-  <a href="Affiche VenturiX.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="poster-thumb.jpg" alt="VenturiX Project Poster" width="400"/>
+  <a href="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/Affiche%20VenturiX.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/poster-thumb.jpg" alt="VenturiX Project Poster" width="500"/>
   </a>
 </p>
 
@@ -26,11 +26,16 @@ The goal of this project was to make fluid mechanics visual and interactive. Our
 
 The live website (linked above) is a showcase featuring:
 
-* **Simulation Gallery:** YouTube videos of different flow types, like laminar (Poiseuille) and turbulent flow, the Venturi effect, and flow around an obstacle (Kármán vortex street).
-* **Interactive Mockup:** A simple panel that shows the controls of the real desktop app. It lets you adjust parameters (like viscosity and flow rate) and calculates the Reynolds number in real-time.
-* **Bilingual Support:** The site is available in French and English.
+**Simulation Gallery**<br>
+YouTube videos of different flow types, like laminar (Poiseuille) and turbulent flow, the Venturi effect, and flow around an obstacle (Kármán vortex street).
+
+**Interactive Mockup**<br>
+A simple panel that shows the controls of the real desktop app. It lets you adjust parameters (like viscosity and flow rate) and calculates the Reynolds number in real-time.
+
+**Bilingual Support**<br>
+The site is available in French and English.
 
 ### Core Technologies
-- **Simulation:** Python, using the **Taichi** library for GPU acceleration.
-- **Website:** HTML, CSS, and JavaScript.
-- **Hosting:** GitHub Pages.
+**Simulation:** Python, using the **Taichi** library for GPU acceleration.<br>
+**Website:** HTML, CSS, and JavaScript.<br>
+**Hosting:** GitHub Pages.
