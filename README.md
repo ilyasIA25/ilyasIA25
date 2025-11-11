@@ -35,7 +35,7 @@ The goal of this project was to make fluid mechanics visual and interactive. Our
 The website (linked above) is a showcase featuring:
 
 **Simulation Gallery**<br>
-YouTube videos of different flow types, like laminar (Poiseuille) and turbulent flow, the Venturi effect, and flow around an obstacle (Kármán vortex street).
+Videos of different flow types simulations by VenturX, like laminar and more turbulent flow, the Venturi effect, and flow around an obstacle.
 
 **Interactive Mockup**<br>
 A simple panel that shows the controls of the real desktop app. It lets you adjust parameters (like viscosity and flow rate) and calculates the Reynolds number in real-time.
