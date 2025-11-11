@@ -12,7 +12,7 @@
 
 ## Project: VenturiX
 
-This profile highlights a student project I contributed to at ECPM Strasbourg. **VenturiX** is a 2D fluid flow simulator built in Python.
+This profile highlights a student project I contributed to at ECPM Strasbourg. **VenturiX** is a 2D fluid flow simulator built in Python. The poster was realised for the Chemistry and AI day, orgranized in ECPM Strasbourg.
 
 <p align="center">
   <i><small><small>(Click the poster for the full PDF)</small></small></i>
@@ -24,7 +24,7 @@ This profile highlights a student project I contributed to at ECPM Strasbourg. *
 
 <p align="center">
   <a href="https://ilyasia25.github.io/Demo-VenturiX/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Live%20Site-VenturiX-005f73?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit VenturiX Site">
+    <img src="https://img.shields.io/badge/Visit%20VenturiX%20Site-VenturiX-005f73?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit VenturiX Site">
   </a>
 </p>
 
