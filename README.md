@@ -1,9 +1,9 @@
 <h3 align="center">Welcome to my profile!</h3>
 
 <p align="center">
-  I am a 2nd-year engineering student at ECPM Strasbourg (Master's program equivalent).
+  I am a 2nd-year engineering student at ECPM Strasbourg (a Master's equivalent program).
   <br>
-  I am focusing my studies on the intersection of <strong>Applied Sciences</strong> (Physics, Chemistry, Materials) and <strong>Artificial Intelligence</strong>. My goal is to apply computational methods like Machine Learning and Data Processing to solve complex scientific problems.
+  I am currently pursuing a dual curriculum in <strong>Physics & Chemistry</strong> and <strong>Artificial Intelligence</strong> (Machine Learning, Data Processing, Deep Learning).
   <br><br>
   This page presents the projects I have contributed to.
 </p>
@@ -12,12 +12,12 @@
 
 ## Project: VenturiX
 
-This profile highlights a student project I contributed to at ECPM Strasbourg. **VenturiX**, is a 2D fluid flow simulator built in Python.
+This profile highlights a student project I contributed to at ECPM Strasbourg. **VenturiX** is a 2D fluid flow simulator built in Python.
 
 <p align="center">
-  <i><small>(Click the poster for the full PDF)</small></i>
+  <i><small><small>(Click the poster for the full PDF)</small></small></i>
   <br>
-  <a href="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/Affiche%20VenturiX.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/VenturiX%20Un%20outil%20num%C3%A9rique%20de%20mod%C3%A9lisation%20d'%C3%A9coulements%20internes%20(1).pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/poster-thumb.jpg" alt="VenturiX Project Poster" width="500" style="border-radius: 10px; border: 1px solid #ddd;"/>
   </a>
 </p>
