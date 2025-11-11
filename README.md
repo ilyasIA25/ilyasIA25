@@ -24,7 +24,7 @@ This profile highlights a student project I contributed to at ECPM Strasbourg. *
 
 <p align="center">
   <a href="https://ilyasia25.github.io/Demo-VenturiX/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Live%20Site-VenturiX-005f73?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit Live Site">
+    <img src="https://img.shields.io/badge/Visit%20Live%20Site-VenturiX-005f73?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit VenturiX Site">
   </a>
 </p>
 
@@ -32,7 +32,7 @@ This profile highlights a student project I contributed to at ECPM Strasbourg. *
 
 The goal of this project was to make fluid mechanics visual and interactive. Our team created a tool based on the **Lattice Boltzmann Method (LBM)** to simulate 2D fluid dynamics.
 
-The live website (linked above) is a showcase featuring:
+The website (linked above) is a showcase featuring:
 
 **Simulation Gallery**<br>
 YouTube videos of different flow types, like laminar (Poiseuille) and turbulent flow, the Venturi effect, and flow around an obstacle (Kármán vortex street).
