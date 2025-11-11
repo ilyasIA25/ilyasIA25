@@ -19,7 +19,7 @@ This profile highlights a student project I contributed to at ECPM Strasbourg. *
   <br>
   <i><small><small>(Click the poster for the full PDF)</small></small></i>
   <br>
-  <a href="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/Affiche%20VenturiX.pdf" target="_blank" rel="noopener noreferrer">
+  <a href="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/Affiche VenturiX.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/poster-thumb.jpg" alt="VenturiX Project Poster" width="500" style="border-radius: 10px; border: 1px solid #ddd;"/>
   </a>
 </p>
