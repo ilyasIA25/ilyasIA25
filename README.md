@@ -3,7 +3,7 @@
 <p align="center">
   I am a 2nd-year engineering student at ECPM Strasbourg (a Master's equivalent program).
   <br>
-  I am currently pursuing a dual curriculum in <strong>Physics & Chemistry</strong> and <strong>Artificial Intelligence</strong> (Machine Learning, Data Processing, Deep Learning).
+  I am currently pursuing a dual curriculum in <strong>Physics & Chemistry</strong> and <strong>Artificial Intelligence</strong>.
   <br><br>
   This page presents the projects I have contributed to.
 </p>
