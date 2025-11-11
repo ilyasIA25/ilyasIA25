@@ -15,7 +15,7 @@
 This profile highlights a student project I contributed to at ECPM Strasbourg. **VenturiX** is a 2D fluid flow simulator built in Python. The poster was realised for the Chemistry and AI day, orgranized in ECPM Strasbourg.
 
 <p align="center">
-  <i><small><small>(Click the poster for the full PDF)</small></small></i>
+  <i><small><small><small>(Click the poster for the full PDF)</small></small><small></i>
   <br>
   <a href="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/VenturiX%20Un%20outil%20num%C3%A9rique%20de%20mod%C3%A9lisation%20d'%C3%A9coulements%20internes%20(1).pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/poster-thumb.jpg" alt="VenturiX Project Poster" width="500" style="border-radius: 10px; border: 1px solid #ddd;"/>
