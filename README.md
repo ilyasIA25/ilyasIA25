@@ -2,12 +2,16 @@
 
 ---
 
-## Project: VenturiX
+## 🚀 Project: VenturiX
 
-This profile features my student project, **VenturiX**: a 2D fluid flow simulator built in Python at ECPM Strasbourg.
+This profile highlights a student project I contributed to at ECPM Strasbourg. This project, **VenturiX**, is a 2D fluid flow simulator built in Python.
 
 <p align="center">
-  <img src="httpsV://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/4867.jpg" alt="VenturiX Project Poster" width="800"/>
+  <strong>(Cliquez sur l'affiche pour voir le PDF complet)</strong>
+  <br>
+  <a href="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/Affiche%20VenturiX.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/poster-thumb.jpg" alt="VenturiX Project Poster" width="500"/>
+  </a>
 </p>
 
 <p align="center">
@@ -18,7 +22,7 @@ This profile features my student project, **VenturiX**: a 2D fluid flow simulato
 
 ### About This Project
 
-The goal of this project was to make fluid mechanics visual and interactive. I created a tool based on the **Lattice Boltzmann Method (LBM)** to simulate 2D fluid dynamics.
+The goal of this project was to make fluid mechanics visual and interactive. Our team created a tool based on the **Lattice Boltzmann Method (LBM)** to simulate 2D fluid dynamics.
 
 The live website (linked above) is a showcase featuring:
 
@@ -30,3 +34,4 @@ The live website (linked above) is a showcase featuring:
 - **Simulation:** Python, using the **Taichi** library for GPU acceleration.
 - **Website:** HTML, CSS, and JavaScript.
 - **Hosting:** GitHub Pages.
+- 
