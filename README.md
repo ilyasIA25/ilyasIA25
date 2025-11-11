@@ -2,15 +2,15 @@
 
 ---
 
-## 🚀 Project: VenturiX
+## Project: VenturiX
 
 This profile highlights a student project I contributed to at ECPM Strasbourg. This project, **VenturiX**, is a 2D fluid flow simulator built in Python.
 
 <p align="center">
-  <strong>(Cliquez sur l'affiche pour voir le PDF complet)</strong>
+  <i><small>(Click the poster for the full PDF)</small></i>
   <br>
-  <a href="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/Affiche%20VenturiX.pdf" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/ilyasIA25/ilyasIA25/main/poster-thumb.jpg" alt="VenturiX Project Poster" width="500"/>
+  <a href="Affiche VenturiX.pdf" target="_blank" rel="noopener noreferrer">
+    <img src="poster-thumb.jpg" alt="VenturiX Project Poster" width="400"/>
   </a>
 </p>
 
@@ -34,4 +34,3 @@ The live website (linked above) is a showcase featuring:
 - **Simulation:** Python, using the **Taichi** library for GPU acceleration.
 - **Website:** HTML, CSS, and JavaScript.
 - **Hosting:** GitHub Pages.
-- 
