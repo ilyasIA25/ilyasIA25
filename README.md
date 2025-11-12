@@ -26,7 +26,7 @@ This profile highlights a student project I contributed to at ECPM Strasbourg. *
 
 <p align="center">
   <a href="https://ilyasia25.github.io/Demo-VenturiX/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20Clic%20Here-VenturiX-005f73?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit Live Site">
+    <img src="https://img.shields.io/badge/Clic%20Here-VenturiX-005f73?style=for-the-badge&logo=githubpages&logoColor=white" alt="Visit Live Site">
   </a>
 </p>
 
